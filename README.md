@@ -40,7 +40,7 @@ All original animations and sprites! Eldegoss's animations can be found on Smogo
 Base sprites from Smogon's Sprite Project by *KingOfThe-X-Roads*. The Front can be found on Smogon made by *uppa*. A great Paldean Wooper animation was made by *AshnixsLaw* (you just need to adjust the color of the shiny ahah).
 
 **Gholdengo**
-Base sprites by *KingOfThe-X-Roads*. Fron on Smogon's Sprite project by *uppa*. Fun fact unrelated to credits, it's literally the same back for both normal and shiny variant. Screw this shiny. 
+Base sprites by *KingOfThe-X-Roads*. Fron on Smogon's Sprite project by *uppa*. Fun fact unrelated to credits, it's literally the same back for both normal and shiny variant. Screw this shiny.
 
 **Wyrdeer**
 Backsprite from Smogon's Sprite Project by *G.E.Z.*. Front animation always on Smogon by *hexagonereal*.
@@ -55,7 +55,7 @@ Base sprites from Smogon's Sprite Project by *KingOfThe-X-Roads and  leParagon*.
 All original animations and sprites! Helioptyle's animations can be found on Smogon's Sprite Project by  *hexagonereal*.
 
 **Fidough - Dachsbun**
-Base sprites by *KingOfThe-X-Roads*.
+Base front sprites by *KingOfThe-X-Roads*. Back sprites by *Kyledove*
 
 **Shroodle - Grafaiai**
 Base sprites by *KingOfThe-X-Roads*. Backs animations by *mangalos810*.

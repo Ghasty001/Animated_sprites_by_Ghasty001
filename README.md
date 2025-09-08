@@ -22,7 +22,6 @@ Base sprites from Smogon's Sprite Project by *KingOfThe-X-Roads and Katten*. Ove
 
 **Oricorio Baile (Fire type)**
 Base sprites from Smogon's Sprite Project by *aXl*. All the other 3 forms are made on Smogon by *Antiant*.
-BACKS CURRENTLY MISSING.
 
 **Clauncher - Clawitzer**
 All original animations and sprites!
@@ -59,3 +58,6 @@ Base front sprites by *KingOfThe-X-Roads*. Back sprites by *Kyledove*
 
 **Shroodle - Grafaiai**
 Base sprites by *KingOfThe-X-Roads*. Backs animations by *mangalos810*.
+
+**Tarountula - Spidops**
+Base backsprites by *KingOfThe-X-Roads*. The front sprites I suggest are the ones from *hellfire0raptor*, HOWEVER I used their animated sprite as template for the shiny front, since they originally didn't made any. 

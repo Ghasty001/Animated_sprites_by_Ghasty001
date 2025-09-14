@@ -17,8 +17,12 @@ The front of Nacli has an animation currently Smogon's Sprite Project, made by *
 **Smoliv - Dolliv - Arboliva**
 All original animations and sprites!
 
+**Hisuian Braviary**
+Base sprites from Smogon's Sprite Project by *G.E.Z and KingOfThe-X-Roads*.
+
 **Hisuian Qwilfish**
 Base sprites from Smogon's Sprite Project by *KingOfThe-X-Roads and Katten*. Overqwil animation is also on Smogon, by *hexagonereal*
+
 
 **Oricorio Baile (Fire type)**
 Base sprites from Smogon's Sprite Project by *aXl*. All the other 3 forms are made on Smogon by *Antiant*.
@@ -60,4 +64,4 @@ Base front sprites by *KingOfThe-X-Roads*. Back sprites by *Kyledove*
 Base sprites by *KingOfThe-X-Roads*. Backs animations by *mangalos810*.
 
 **Tarountula - Spidops**
-Base backsprites by *KingOfThe-X-Roads*. The front sprites I suggest are the ones from *hellfire0raptor*, HOWEVER I used their animated sprite as template for the shiny front, since they originally didn't made any. 
+Base backsprites by *KingOfThe-X-Roads*. The front sprites I suggest are the ones from *hellfire0raptor*, HOWEVER I used their animated sprite as template for the shiny front, since they originally didn't made any.

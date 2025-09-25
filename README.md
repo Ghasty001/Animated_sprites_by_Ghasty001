@@ -51,6 +51,9 @@ Backsprite from Smogon's Sprite Project by *G.E.Z.*. Front animation always on S
 **Hisuian Voltorb - Electrode**
 Base sprites from Smogon's Sprite Project by *Blaquaza and G.E.Z.*. The only one animated was Voltorb's Front by *Katten*.
 
+**Hisuian Sliggoo**
+Base sprites from Smogon's Sprite Project by *G.E.Z.*. In there there's also front, along with H.Goodra's assets.
+
 **Dottler - Orbeetle**
 Base sprites from Smogon's Sprite Project by *KingOfThe-X-Roads and  leParagon*. Except Orbeetle's Front, that one I made myself. Blipbug can be found on Smogon as well by *arionelle*
 
@@ -64,7 +67,7 @@ Base front sprites by *KingOfThe-X-Roads*. Back sprites by *Kyledove*
 Base sprites by *KingOfThe-X-Roads*. Backs animations by *mangalos810*.
 
 **Flapple - Appletun**
-Base sprites for front and back by *Blaquaza and leParagon*. 
+Base sprites for front and back by *Blaquaza and leParagon*.
 
 **Tarountula - Spidops**
 Base backsprites by *KingOfThe-X-Roads*. The front sprites I suggest are the ones from *hellfire0raptor*, HOWEVER I used their animated sprite as template for the shiny front, since they originally didn't made any.

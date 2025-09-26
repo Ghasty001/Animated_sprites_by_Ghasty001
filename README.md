@@ -1,7 +1,7 @@
 # Animated Sprites by Ghasty001
 A repository with all animated sprites I made on official pokemon, who usually currently miss on Smogon's sprite project when I needed them, or just made for fun.
 
-All these sprites are free to use, for other projects to use *with credit*. The credits also apply to all the artists who made the base sprite I used for the animation (also shared with free to use consense), and all of them will be listed below.
+All these sprites are free to use, for other projects to use *with credit*. The credits also apply to all the artists who made the base sprite I used for the animation (also shared with free to use consent), and all of them will be listed below.
 
 This repository will be updated progressively when I make a new animation. The choice of the species itself is purely based on my personal will, and no requests are accepted.
 
@@ -53,6 +53,9 @@ Base sprites from Smogon's Sprite Project by *Blaquaza and G.E.Z.*. The only one
 
 **Hisuian Sliggoo**
 Base sprites from Smogon's Sprite Project by *G.E.Z.*. In there there's also front, along with H.Goodra's assets.
+
+**Hisuian Avalugg**
+Base sprites from Smogon's Sprite Project by *Katten*. Front animations with decent quality where made by *hellfire0raptor*.
 
 **Dottler - Orbeetle**
 Base sprites from Smogon's Sprite Project by *KingOfThe-X-Roads and  leParagon*. Except Orbeetle's Front, that one I made myself. Blipbug can be found on Smogon as well by *arionelle*

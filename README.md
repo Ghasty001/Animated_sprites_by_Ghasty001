@@ -74,3 +74,6 @@ Base sprites for front and back by *Blaquaza and leParagon*.
 
 **Tarountula - Spidops**
 Base backsprites by *KingOfThe-X-Roads*. The front sprites I suggest are the ones from *hellfire0raptor*, HOWEVER I used their animated sprite as template for the shiny front, since they originally didn't made any.
+
+**Trevenant**
+All original animations and sprites! Phantump's animation can be found on Smogon's Sprite Project by  *arionelle*.

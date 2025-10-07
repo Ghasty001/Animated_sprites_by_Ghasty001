@@ -57,6 +57,9 @@ Base sprites from Smogon's Sprite Project by *G.E.Z.*. In there there's also fro
 **Hisuian Avalugg**
 Base sprites from Smogon's Sprite Project by *Katten*. Front animations with decent quality where made by *hellfire0raptor*.
 
+**Hisuian Sneasel and Sneasler**
+Base sprites from Smogon's Sprite Project by *Blaquaza, G.E.Z. and KattenK*. Unrelated: these base sprites they made make Sneasler look good for me. 
+
 **Dottler - Orbeetle**
 Base sprites from Smogon's Sprite Project by *KingOfThe-X-Roads and  leParagon*. Except Orbeetle's Front, that one I made myself. Blipbug can be found on Smogon as well by *arionelle*
 

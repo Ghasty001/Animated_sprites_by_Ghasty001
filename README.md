@@ -58,7 +58,7 @@ Base sprites from Smogon's Sprite Project by *G.E.Z.*. In there there's also fro
 Base sprites from Smogon's Sprite Project by *Katten*. Front animations with decent quality where made by *hellfire0raptor*.
 
 **Hisuian Sneasel and Sneasler**
-Base sprites from Smogon's Sprite Project by *Blaquaza, G.E.Z. and KattenK*. Unrelated: these base sprites they made make Sneasler look good for me. 
+Base sprites from Smogon's Sprite Project by *Blaquaza, G.E.Z. and KattenK*. Unrelated: these base sprites they made make Sneasler look good for me.
 
 **Dottler - Orbeetle**
 Base sprites from Smogon's Sprite Project by *KingOfThe-X-Roads and  leParagon*. Except Orbeetle's Front, that one I made myself. Blipbug can be found on Smogon as well by *arionelle*
@@ -80,3 +80,6 @@ Base backsprites by *KingOfThe-X-Roads*. The front sprites I suggest are the one
 
 **Trevenant**
 All original animations and sprites! Phantump's animation can be found on Smogon's Sprite Project by  *arionelle*.
+
+**Armarouge**
+Base front sprites by *KingOfThe-X-Roads*. Good Charcadet and ceruledge sprite animations can be found in the Deluxe Battle Kit, but I can't link you the name of the creator.

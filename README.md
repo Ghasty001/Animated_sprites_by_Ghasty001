@@ -83,3 +83,15 @@ All original animations and sprites! Phantump's animation can be found on Smogon
 
 **Armarouge**
 Base front sprites by *KingOfThe-X-Roads*. Good Charcadet and ceruledge sprite animations can be found in the Deluxe Battle Kit, but I can't link you the name of the creator.
+
+**Mega Malamar**
+All original animations and sprites!
+
+**Mega Victreebel**
+All original animations and sprites!
+
+**Mega Chandelure**
+All original animations and sprites! Also best pokemon.
+
+**Mega Eelektross**
+Base sprite by *kiriaura* over on its Deviant-Art.

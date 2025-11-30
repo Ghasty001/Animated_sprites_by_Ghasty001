@@ -95,3 +95,6 @@ All original animations and sprites! Also best pokemon.
 
 **Mega Eelektross**
 Base sprite by *kiriaura* over on its Deviant-Art.
+
+**Dreepy - Drakloak - Dragapult**
+Base sprite by *KingOfThe-X-Roads*. Slightly modified the drakloak and dragapult front sprites, while the backs are mine.

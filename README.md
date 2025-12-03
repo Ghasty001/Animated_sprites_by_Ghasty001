@@ -82,7 +82,7 @@ Base backsprites by *KingOfThe-X-Roads*. The front sprites I suggest are the one
 All original animations and sprites! Phantump's animation can be found on Smogon's Sprite Project by  *arionelle*.
 
 **Armarouge**
-Base front sprites by *KingOfThe-X-Roads*. Good Charcadet and ceruledge sprite animations can be found in the Deluxe Battle Kit, but I can't link you the name of the creator.
+Base front sprites by *KingOfThe-X-Roads*. Credit to *lennybitao* for that second frame with the cannon arms. Good Charcadet and ceruledge sprite animations can be found in the Deluxe Battle Kit, but I can't link you the name of the creator.
 
 **Mega Malamar**
 All original animations and sprites!

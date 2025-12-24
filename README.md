@@ -84,6 +84,12 @@ All original animations and sprites! Phantump's animation can be found on Smogon
 **Armarouge**
 Base front sprites by *KingOfThe-X-Roads*. Credit to *lennybitao* for that second frame with the cannon arms. Good Charcadet and ceruledge sprite animations can be found in the Deluxe Battle Kit, but I can't link you the name of the creator.
 
+**Mega Ampharos**
+Base sprites was made by *Branflakes325, Layell, Wyverii* on Smogon's Sprite Project.
+
+**Mega Beedrill**
+Basecksprite by *Sleet* on Smogon's Sprite Project. The base front animation on Smogon's Sprite Project by *arionelle*.
+
 **Mega Malamar**
 All original animations and sprites!
 
@@ -91,7 +97,7 @@ All original animations and sprites!
 All original animations and sprites!
 
 **Mega Chandelure**
-All original animations and sprites! Also best pokemon.
+All original animations and sprites! Also best Pokèmon.
 
 **Mega Eelektross**
 Base sprite by *kiriaura* over on its Deviant-Art.

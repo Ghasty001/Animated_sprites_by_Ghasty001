@@ -99,5 +99,8 @@ Base sprite by *kiriaura* over on its Deviant-Art.
 **Mega Absol Z**
 All original animations and sprites! Back might need touchups.
 
+**Mega Meganium**
+The base front was made by *kiriaura* over on its Deviant-Art, while the back is original.
+
 **Dreepy - Drakloak - Dragapult**
 Base sprite by *KingOfThe-X-Roads*. Slightly modified the drakloak and dragapult front sprites, while the backs are mine.

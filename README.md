@@ -84,6 +84,9 @@ All original animations and sprites! Phantump's animation can be found on Smogon
 **Armarouge**
 Base front sprites by *KingOfThe-X-Roads*. Credit to *lennybitao* for that second frame with the cannon arms. Good Charcadet and ceruledge sprite animations can be found in the Deluxe Battle Kit, but I can't link you the name of the creator.
 
+**Mega Altaria**
+Base sprites by *Falgaia*.
+
 **Mega Ampharos**
 Base sprites was made by *Branflakes325, Layell, Wyverii* on Smogon's Sprite Project.
 
@@ -110,3 +113,6 @@ The base front was made by *kiriaura* over on its Deviant-Art, while the back is
 
 **Dreepy - Drakloak - Dragapult**
 Base sprite by *KingOfThe-X-Roads*. Slightly modified the drakloak and dragapult front sprites, while the backs are mine.
+
+**Kingambit**
+Base sprites by *Anarlaurendil* over on Deviantart. 

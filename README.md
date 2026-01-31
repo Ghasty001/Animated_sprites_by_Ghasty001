@@ -17,12 +17,14 @@ The front of Nacli has an animation currently Smogon's Sprite Project, made by *
 **Smoliv - Dolliv - Arboliva**
 All original animations and sprites!
 
+**Fuecoco - Crocalor - Skeledirge**
+Fuecoco's front and back was edited from a sprite by *Bloxable*. Skeledirge front sprite was also made by *Bloxable*. both Skeli and Crocalor's back come from *KingOfThe*. Crocalor's front is original!
+
 **Hisuian Braviary**
 Base sprites from Smogon's Sprite Project by *G.E.Z and KingOfThe-X-Roads*.
 
 **Hisuian Qwilfish**
 Base sprites from Smogon's Sprite Project by *KingOfThe-X-Roads and Katten*. Overqwil animation is also on Smogon, by *hexagonereal*
-
 
 **Oricorio Baile (Fire type)**
 Base sprites from Smogon's Sprite Project by *aXl*. All the other 3 forms are made on Smogon by *Antiant*.
@@ -115,4 +117,4 @@ The base front was made by *kiriaura* over on its Deviant-Art, while the back is
 Base sprite by *KingOfThe-X-Roads*. Slightly modified the drakloak and dragapult front sprites, while the backs are mine.
 
 **Kingambit**
-Base sprites by *Anarlaurendil* over on Deviantart. 
+Base sprites by *Anarlaurendil* over on Deviantart.

@@ -83,8 +83,8 @@ Base backsprites by *KingOfThe-X-Roads*. The front sprites I suggest are the one
 **Trevenant**
 All original animations and sprites! Phantump's animation can be found on Smogon's Sprite Project by  *arionelle*.
 
-**Armarouge**
-Base front sprites by *KingOfThe-X-Roads*. Credit to *lennybitao* for that second frame with the cannon arms. Good Charcadet and ceruledge sprite animations can be found in the Deluxe Battle Kit, but I can't link you the name of the creator.
+**Armarouge and Ceruledge**
+Base Armarouge front sprites by *KingOfThe-X-Roads*. Credit to *lennybitao* for that second frame with the cannon arms, available also at the 2-frame project.I think the author of Base Ceruledge front either deleted its previous work or I simply couldn't find him. If you happen to know, feel free to share. If you want a good base Ceruledge sprite, look for the ones also by *lennybitao*. Good Charcadet sprite animations can be found in the Deluxe Battle Kit, but I can't link you the name of the creator directly.... yeah this section is quite a mess.
 
 **Mega Altaria**
 Base sprites by *Falgaia*.
@@ -118,3 +118,6 @@ Base sprite by *KingOfThe-X-Roads*. Slightly modified the drakloak and dragapult
 
 **Kingambit**
 Base sprites by *Anarlaurendil* over on Deviantart.
+
+**Bramblin and Brambleghast**
+Base sprites by *KingOfThe-X-Roads* on Smogon's Sprite Project.

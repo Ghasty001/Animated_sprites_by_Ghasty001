@@ -121,3 +121,6 @@ Base sprites by *Anarlaurendil* over on Deviantart.
 
 **Bramblin and Brambleghast**
 Base sprites by *KingOfThe-X-Roads* on Smogon's Sprite Project.
+
+**Rotom dj**
+Base sprites by *KingOfThe-X-Roads*. It's a bonus addition because some people asked me to.
